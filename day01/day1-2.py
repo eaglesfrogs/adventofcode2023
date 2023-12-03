@@ -1,7 +1,7 @@
 import re
 
 
-files = open('day1data.txt', 'r')
+files = open('day01/day1data.txt', 'r')
 lines = files.readlines()
 
 total = 0
